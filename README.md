@@ -1,4 +1,4 @@
-# Installaing Dependencies
+# Installing Dependencies
 
 1. download node.js
 2. install metamask on browser
