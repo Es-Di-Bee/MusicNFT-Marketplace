@@ -1,4 +1,4 @@
-# Music-NFT-Marketplace
+# Installaing Dependencies
 
 1. download node.js
 2. install metamask on browser
